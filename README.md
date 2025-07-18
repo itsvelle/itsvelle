@@ -18,7 +18,7 @@
 - [**OpenOTP**](https://github.com/Slipstreamm/OpenOTP) — flutter app for TOTP/HOTP (2fa, basically)  
 - [**discordbot**](https://github.com/Slipstreamm/discordbot) — python discord bot with a **lot** of features. not optimized for anything but my own personal use. 
 - [**llm-git-commits**](https://github.com/Slipstreamm/llm-git-commits) — ai-powered CLI for commit messages + git commit automation  
-- [**disagreement**](https://github.com/Slipstreamm/disagreement) — lightweight discord library in python (the name is stupid on purpose)
+- [**disagreement**](https://github.com/Slipstreamm/disagreement) — lightweight discord library in python (the name is stupid on purpose). probably worse than any other library but oh well
 
 ---
 
