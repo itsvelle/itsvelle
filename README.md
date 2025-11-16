@@ -15,8 +15,8 @@
 
 ### 📊 stats n stuff:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slipstreamm&show_icons=true&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slipstreamm&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsvelle&show_icons=true&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvelle&layout=compact&theme=radical)
 
 ---
 
