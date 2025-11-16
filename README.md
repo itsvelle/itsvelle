@@ -2,7 +2,7 @@
 
 - 👨‍💻 student in cybersecurity | hobbyist programmer  
 - 🛠️ open source advocate — i build stuff and put it on here  
-- 🏷️ pronouns: he/him, she/her, they/them. any of these, idc   
+- 🏷️ pronouns: she/her, they/them. any of these, idc   
 - 📍 based in the us
 
 ---
