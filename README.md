@@ -1,7 +1,7 @@
 # hi, i'm velle
 
 - 👨‍💻 student in cybersecurity | hobbyist programmer  
-- 🛠️ open source advocate — i build stuff and put it on here  
+- 🛠️ open source advocate
 - 🏷️ pronouns: she/her, they/them
 - 📍 based in the us
 
